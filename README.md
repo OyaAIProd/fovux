@@ -9,6 +9,7 @@
 [![Marketplace](https://img.shields.io/visual-studio-marketplace/v/oaslananka.fovux-studio)](https://marketplace.visualstudio.com/items?itemName=oaslananka.fovux-studio)
 [![Python 3.11-3.13](https://img.shields.io/badge/Python-3.11_|_3.12_|_3.13-blue)](https://pypi.org/project/fovux-mcp/)
 [![License: Apache-2.0](https://img.shields.io/badge/License-Apache_2.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
+[![SafeSkill 50/100](https://img.shields.io/badge/SafeSkill-50%2F100_Use%20with%20Caution-orange)](https://safeskill.dev/scan/oaslananka-fovux)
 
 ## What is Fovux?
 
